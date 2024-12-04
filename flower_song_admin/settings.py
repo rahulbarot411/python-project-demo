@@ -131,7 +131,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 #<<<<<<< HEAD
 #=======
 # ALLOWED_HOSTS = ['*']
-ALLOWED_HOSTS = ['15.206.82.240'', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['15.206.82.240', 'localhost', '127.0.0.1']
 
 #>>>>>>> 71d42be1c552c73c0685f6192d44360d0cc2757f
 # WSGI_APPLICATION = 'api.wsgi.app'
